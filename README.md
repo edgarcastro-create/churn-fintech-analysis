@@ -94,5 +94,5 @@ El tablero se diseñó bajo la identidad corporativa de Naranja X (`#FF6B00`), d
 
 ## ✒️ Autor
 * **Perfil:** Data Analyst | Business Intelligence
-* **LinkedIn:** [Tu Link de LinkedIn]
-* **Portfolio GitHub:** [Tu Link de GitHub]
+* **LinkedIn:** www.linkedin.com/in/traxex12
+* **Portfolio GitHub:** https://github.com/edgarcastro-create
