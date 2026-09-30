@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Contexto & Problema de Negocio
-En la industria **Fintech de Argentina**, el costo de adquisición de clientes ($CAC$) es significativamente más alto que el costo de retención. **Naranja X** busca identificar de forma proactiva a aquellos usuarios con alta probabilidad de abandono (*Churn*) de sus servicios financieros antes de que cancelen definitivamente su cuenta.
+En la industria **Fintech de Argentina**, el costo de adquisición de clientes (CAC) es significativamente más alto que el costo de retención. **Naranja X** busca identificar de forma proactiva a aquellos usuarios con alta probabilidad de abandono (*Churn*) de sus servicios financieros antes de que cancelen definitivamente su cuenta.
 
 **Objetivo del proyecto:**  
 Desarrollar un flujo analítico integral end-to-end (**PostgreSQL $\rightarrow$ Python ML $\rightarrow$ Power BI**) que permita predecir el riesgo de fuga con un enfoque financiero, diagnosticar sus causas raíz y cuantificar el valor económico rescatable mediante simulaciones interactivas.
