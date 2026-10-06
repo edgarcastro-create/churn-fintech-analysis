@@ -1,4 +1,4 @@
-# 🍊 Naranja X — Predicción de Churn & Estrategia de Retención de Clientes
+﻿# 🍊 Naranja X — Predicción de Churn & Estrategia de Retención de Clientes
 
 ![Stack](https://img.shields.io/badge/Stack-SQL%20%7C%20Python%20%7C%20Power%20BI-orange)
 ![ML Model](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-blue)
@@ -49,19 +49,28 @@ El tablero se diseñó bajo la identidad corporativa de Naranja X (`#FF6B00`), d
 
 ---
 
+### Prerrequisitos - Python 3.9+ - PostgreSQL - Power BI Desktop
+
 ## 📈 Tablero Interactivo (Power BI)
 
 ### Página 1: Panorama General
 * Visualización global del volumen de clientes en peligro y distribución por niveles de producto contratados (`Total_Relationship_Count`).
 
+
+
+
 ### Página 2: Diagnóstico de Fuga
 * **Hallazgo:** La probabilidad de churn explota dramáticamente cuando el cliente realiza **menos de 40 transacciones al año**.
+
 * **Consumo Promedio:** El ticket promedio de consumo cae de **$4,8M ARS** (clientes activos) a **$3,0M ARS** (clientes en riesgo).
+
 
 ### Página 3: Plan de Acción & Simulación "What-If"
 * **Fórmula DAX del Simulador:**
   $$\text{Dinero Rescatado ARS} = [\text{Monto en Riesgo ARS}] \times \text{'Porcentaje Retención'}[\text{Valor}]$$
 * Permite a los gerentes comerciales simular escenarios de retención del 5% al 50% en tiempo real.
+
+
 
 ---
 
@@ -94,5 +103,5 @@ El tablero se diseñó bajo la identidad corporativa de Naranja X (`#FF6B00`), d
 
 ## ✒️ Autor
 * **Perfil:** Data Analyst | Business Intelligence
-* **LinkedIn:** [Tu Link de LinkedIn]
-* **Portfolio GitHub:** [Tu Link de GitHub]
+* **LinkedIn:** https://www.linkedin.com/in/traxex12/
+* **Portfolio GitHub:** https://github.com/edgarcastro-create
