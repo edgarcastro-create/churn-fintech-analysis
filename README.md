@@ -55,17 +55,18 @@ El tablero se diseñó bajo la identidad corporativa de Naranja X (`#FF6B00`), d
 
 ### Página 1: Panorama General
 * Visualización global del volumen de clientes en peligro y distribución por niveles de producto contratados (`Total_Relationship_Count`).
-
-
-
+<img width="858" height="484" alt="Naranja X - Anlisis Predictivo de Churn" src="https://github.com/user-attachments/assets/dd4fa901-d933-48f1-b66b-6630585d4e35" />
 
 ### Página 2: Diagnóstico de Fuga
 * **Hallazgo:** La probabilidad de churn explota dramáticamente cuando el cliente realiza **menos de 40 transacciones al año**.
+<img width="860" height="485" alt="Naranja X - Drivers Principales de Fuga" src="https://github.com/user-attachments/assets/2009a264-3bed-484e-98a3-6d776f424a0e" />
 
 * **Consumo Promedio:** El ticket promedio de consumo cae de **$4,8M ARS** (clientes activos) a **$3,0M ARS** (clientes en riesgo).
 
 
 ### Página 3: Plan de Acción & Simulación "What-If"
+<img width="859" height="488" alt="Naranja X - Estrategia de Retencion y Valor Rescatable" src="https://github.com/user-attachments/assets/daadd3e1-1958-4acc-926e-fcfd29319190" />
+
 * **Fórmula DAX del Simulador:**
   $$\text{Dinero Rescatado ARS} = [\text{Monto en Riesgo ARS}] \times \text{'Porcentaje Retención'}[\text{Valor}]$$
 * Permite a los gerentes comerciales simular escenarios de retención del 5% al 50% en tiempo real.
